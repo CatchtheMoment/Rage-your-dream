@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<script type="text/javascript">
+			for(var i=0;i<5;i++){
+				document.write("🤣");
+				for(var j=4;j>i;j--){
+					document.write("🤣");
+				}
+				document.write("<br/>")
+			}
+		</script>
+	</body>
+</html>
